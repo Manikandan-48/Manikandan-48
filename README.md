@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌️, I'm MANIKANDAN</h1>
-<h3 align="center">A Passionate Full-stack MERN developer👨‍💻 who is interested in creating responsive and user-friendly web applications</h3>
+<h3 align="center">A Passionate Full-stack MERN developer👨‍💻 who is interested in creating responsive and user-friendly web applications🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan-48&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan-48" /> </p>
 
